@@ -1,6 +1,6 @@
 import { LiaBookmarkSolid } from "react-icons/lia";
 const Blog = ({ blog, handleToAddBookmarks, handleMarkAsRead }) => {
-    const {cover,title,author_img,author,posted_date,reading_time,hashtags} = blog;
+    const {id,cover,title,author_img,author,posted_date,reading_time,hashtags} = blog;
     
     return (
         <div className="space-y-4 mb-10">
@@ -24,7 +24,7 @@ const Blog = ({ blog, handleToAddBookmarks, handleMarkAsRead }) => {
                     hashtags.map((hash, idx) => <span className="mr-3" key={idx}><a href="">{hash}</a></span>)
                 }
             </p>
-            <button onClick={() => handleMarkAsRead(reading_time)} className="text-blue-700 underline">Mark As Read</button>
+            <button onClick={() => handleMarkAsRead(id,reading_time)} className="text-blue-700 underline">Mark As Read</button>
         </div>
     );
 };
