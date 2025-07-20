@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/1fgtXTsZ/developer-8829735-1280.jpg",
+    "title": "The Future of JavaScript",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/60Hcvzt1/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+    "posted_date": "2025-07-15",
+    "reading_time": 5,
+    "hashtags": ["#JavaScript", "#WebDev", "#Programming"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/ZzSCsmgd/computer-4795762-1280.jpg",
+    "title": "Mastering React in 30 Days",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/kVMgS8Vn/duman-photography-Gvvt-E31b0-JI-unsplash.jpg",
+    "posted_date": "2025-07-10",
+    "reading_time": 8,
+    "hashtags": ["#React", "#Frontend", "#JavaScript"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/SXsBM0D2/software-developer-6521720-1280-1.jpg",
+    "title": "Node.js Tips for Beginners",
+    "author": "Alex Johnson",
+    "author_img": "https://i.ibb.co/kVMgS8Vn/duman-photography-Gvvt-E31b0-JI-unsplash.jpg",
+    "posted_date": "2025-07-12",
+    "reading_time": 6,
+    "hashtags": ["#NodeJS", "#Backend", "#WebDev"]
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+    "title": "Understanding TypeScript",
+    "author": "Emily Davis",
+    "author_img": "https://i.ibb.co/jPpjC48c/javad-esmaeili-Eqdo-OJgqrf-A-unsplash.jpg",
+    "posted_date": "2025-07-18",
+    "reading_time": 7,
+    "hashtags": ["#TypeScript", "#JavaScript", "#Coding"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/pjrW30wy/wordpress-581849-1280.jpg",
+    "title": "CSS Tricks You Should Know",
+    "author": "Michael Brown",
+    "author_img": "https://i.ibb.co/LdhLjhG9/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "posted_date": "2025-07-05",
+    "reading_time": 4,
+    "hashtags": ["#CSS", "#WebDesign", "#Frontend"]
+  }
+]
